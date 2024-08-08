@@ -1,1 +1,1 @@
-# Social_media_platform
+# Movie_Recommender_System
