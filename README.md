@@ -3,7 +3,7 @@
 
 This is a movie recommendation system built using machine learning algorithms. The system can recommend movies to users based on their past viewing history and preferences.
 
-![Movie Recommendation System](media/image)
+![Movie Recommendation System](media/image.png)
 
 ## Features
 
